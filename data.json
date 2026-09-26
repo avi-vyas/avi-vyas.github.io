@@ -1,0 +1,211 @@
+{
+  "site": {
+    "name": "Avi Vyas",
+    "title": "Software Engineer . Backend",
+    "tagline": "I build backend systems that are fast, reliable, and built to scale.",
+    "location": "Bhiwadi, Rajasthan, India",
+    "availability": "Open to interesting projects",
+    "email": "avi.vyas.work@gmail.com",
+    "resume": "assets/resume.pdf",
+    "profileImage": "assets/me.png",
+    "theme": "dark",
+    "footer": "Built with simple HTML, CSS & JS."
+  },
+  "navigation": [
+    {
+      "label": "About",
+      "target": "about"
+    },
+    {
+      "label": "Skills",
+      "target": "skills"
+    },
+    {
+      "label": "Experience",
+      "target": "experience"
+    },
+    {
+      "label": "Projects",
+      "target": "projects"
+    },
+    {
+      "label": "Writing",
+      "target": "writing"
+    },
+    {
+      "label": "Contact",
+      "target": "contact"
+    }
+  ],
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/avi-vyas"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/avi-vyas"
+    },
+    {
+      "label": "Blog",
+      "url": ""
+    }
+  ],
+  "sections": [
+    "hero",
+    "about",
+    "skills",
+    "experience",
+    "projects",
+    "writing",
+    "contact"
+  ],
+  "hero": {
+    "eyebrow": "",
+    "heading": "A little about me",
+    "description": "I build backend systems with a focus on performance, reliability, and scale. Most of my work revolves around Java figuring out how to make systems faster and simpler.",
+    "links": [
+      {
+        "label": "Contact me",
+        "target": "contact",
+        "style": "primary"
+      },
+      {
+        "label": "Experience",
+        "target": "experience",
+        "style": "secondary"
+      }
+    ]
+  },
+  "about": {
+    "heading": "What I build",
+    "text": "I build, optimize, and evolve backend systems that power real-world products.",
+    "facts": [
+      {
+        "label": "Based in",
+        "value": "Bhiwadi, Rajasthan"
+      },
+      {
+        "label": "Focus",
+        "value": "Backend · Systems · AI"
+      },
+      {
+        "label": "Stack",
+        "value": "Java · Spring Boot"
+      }
+    ]
+  },
+  "skills": [
+  {
+    "group": "Languages",
+    "items": [
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "group": "Backend & Frameworks",
+    "items": [
+      "Spring Boot 4",
+      "Spring Security",
+      "Spring Data JPA",
+      "Hibernate",
+      "FastAPI",
+      "REST APIs",
+      "Microservices"
+    ]
+  },
+  {
+    "group": "Data & Messaging",
+    "items": [
+      "MySQL",
+      "PostgreSQL",
+      "Redis",
+      "Elasticsearch",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "group": "Cloud & DevOps",
+    "items": [
+      "AWS",
+      "Docker",
+      "Git",
+      "GitLab",
+      "Maven",
+      "Gradle"
+    ]
+  },
+  {
+    "group": "AI & Engineering",
+    "items": [
+      "Spring AI",
+      "MCP",
+      "Spec Kit",
+      "JUnit",
+      "Mockito",
+      "Multithreading",
+      "OOPS",
+      "SOLID",
+      "Data Structures"
+    ]
+  }
+],
+  "experience": [
+    {
+      "role": "Backend Engineer",
+      "company": "To The New (TTN)",
+      "period": "07/2025 — Present",
+      "location": "Noida, India",
+      "description": "Building backend systems and services for a platform serving 18M+ users.",
+      "highlights": [
+        "Cut Elasticsearch API latency from 1s+ to ~80ms, reaching 1,500+ TPS with 50% less production infrastructure.",
+        "Building an AI-powered RCA service that detects KPI threshold breaches, traces supporting evidence, and automatically generates root-cause reports.",
+        "Diagnose and resolve production bottlenecks across microservices, improving system reliability, latency, and resource efficiency.",
+        "Built reusable backend services that turned one-off business requirements into solutions adopted across multiple teams."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-Commerce Backend System",
+      "description": "Production-style e-commerce backend with 50+ REST APIs, JWT authentication, and role-based access control.",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "JWT"
+      ],
+      "url": "",
+      "github": "https://github.com/avi-vyas/ecommerce-platform-backend"
+    },
+    {
+      "name": "Doctor Appointment System",
+      "description": "Appointment management API with secure authentication and conflict-aware scheduling.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "MySQL",
+        "JWT"
+      ],
+      "url": "",
+      "github": "https://github.com/avi-vyas/doctor-appointment-system"
+    }
+  ],
+  "certifications": [],
+  "writing": [
+    {
+      "title": "Elasticsearch for High-Performance Search",
+      "excerpt": "Lessons from building and tuning search and autocomplete APIs for speed, throughput, and scale.",
+      "date": "Coming soon",
+      "url": ""
+    }
+  ],
+  "contact": {
+    "heading": "Let's connect",
+    "text": "Have a project, role, or idea in mind? Send me a message.",
+    "email": "avi.vyas.work@gmail.com",
+    "calendar": "",
+    "location": "Bhiwadi, Rajasthan, India"
+  }
+}

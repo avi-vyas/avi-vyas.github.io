@@ -1,0 +1,211 @@
+{
+  "site": {
+    "name": "Your Name",
+    "title": "Software Engineer",
+    "tagline": "I build reliable software, thoughtful products, and systems that scale.",
+    "location": "India",
+    "availability": "Open to interesting projects",
+    "email": "hello@example.com",
+    "resume": "assets/resume.pdf",
+    "profileImage": "",
+    "theme": "dark",
+    "footer": "Built with simple HTML, CSS & JS."
+  },
+  "navigation": [
+    {
+      "label": "About",
+      "target": "about"
+    },
+    {
+      "label": "Skills",
+      "target": "skills"
+    },
+    {
+      "label": "Experience",
+      "target": "experience"
+    },
+    {
+      "label": "Projects",
+      "target": "projects"
+    },
+    {
+      "label": "Writing",
+      "target": "writing"
+    },
+    {
+      "label": "Contact",
+      "target": "contact"
+    }
+  ],
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/"
+    },
+    {
+      "label": "X",
+      "url": "https://x.com/"
+    },
+    {
+      "label": "Blog",
+      "url": ""
+    }
+  ],
+  "sections": [
+    "hero",
+    "about",
+    "skills",
+    "experience",
+    "projects",
+    "certifications",
+    "writing",
+    "contact"
+  ],
+  "hero": {
+    "eyebrow": "Software Engineer",
+    "description": "A short introduction goes here. Mention what you build, your strongest areas, and what kind of work you enjoy.",
+    "links": [
+      {
+        "label": "Contact me",
+        "target": "contact",
+        "style": "primary"
+      },
+      {
+        "label": "View my work",
+        "target": "projects",
+        "style": "secondary"
+      }
+    ]
+  },
+  "about": {
+    "heading": "A little about me",
+    "text": "Write a concise bio here. This section is optional: remove it from the sections array, or leave the object empty, and it will not render.",
+    "facts": [
+      {
+        "label": "Based in",
+        "value": "India"
+      },
+      {
+        "label": "Focus",
+        "value": "Backend \u00b7 Cloud \u00b7 Product"
+      },
+      {
+        "label": "Status",
+        "value": "Available for selected work"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "group": "Backend",
+      "items": [
+        "Java",
+        "Go",
+        "Python",
+        "Spring Boot",
+        "Node.js"
+      ]
+    },
+    {
+      "group": "Cloud & DevOps",
+      "items": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "group": "Data",
+      "items": [
+        "PostgreSQL",
+        "Redis",
+        "Kafka"
+      ]
+    },
+    {
+      "group": "Observability",
+      "items": [
+        "OpenTelemetry",
+        "Prometheus",
+        "Grafana"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Company Name",
+      "period": "2024 \u2014 Present",
+      "location": "Remote",
+      "description": "Built and operated backend services used by customers at scale.",
+      "highlights": [
+        "Designed APIs and distributed workflows.",
+        "Improved reliability and deployment automation."
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Previous Company",
+      "period": "2022 \u2014 2024",
+      "description": "Worked across product engineering, infrastructure, and developer tooling."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project One",
+      "description": "A short description of the project and the problem it solves.",
+      "tags": [
+        "Go",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Project Two",
+      "description": "Another project. Links and images are optional.",
+      "tags": [
+        "React",
+        "Node.js"
+      ],
+      "url": "",
+      "github": "",
+      "image": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certification Name",
+      "issuer": "Issuing Organization",
+      "year": "2026",
+      "url": ""
+    }
+  ],
+  "writing": [
+    {
+      "title": "Article title",
+      "excerpt": "A short description of the post.",
+      "date": "2026-01-01",
+      "url": ""
+    },
+    {
+      "title": "Another article",
+      "excerpt": "Optional excerpt.",
+      "date": "2025-10-12",
+      "url": ""
+    }
+  ],
+  "contact": {
+    "heading": "Let's work together",
+    "text": "Have a project, role, or idea in mind? Send me a message.",
+    "email": "hello@example.com",
+    "calendar": "",
+    "location": "India"
+  }
+}
