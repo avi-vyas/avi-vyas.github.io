@@ -339,7 +339,6 @@ footer {
   main, footer { width: min(100% - 30px, var(--max)); }
   .site-header { padding: 0 15px; }
   .brand { font-size: 15px; }
-  .resume-button { display: none; }
   section { padding: 78px 0; }
   .hero { min-height: auto; padding: 75px 0 90px; }
   h1 { font-size: clamp(48px, 16vw, 78px); }
