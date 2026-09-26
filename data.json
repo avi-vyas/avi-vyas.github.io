@@ -2,7 +2,7 @@
   "site": {
     "name": "Avi Vyas",
     "title": "Software Engineer . Backend",
-    "tagline": "I build backend systems that are fast, reliable, and built to scale.",
+    "tagline": "I design and build backend systems where performance, reliability, and scale matter.",
     "location": "Bhiwadi, Rajasthan, India",
     "availability": "Open to interesting projects",
     "email": "avi.vyas.work@gmail.com",
@@ -63,7 +63,7 @@
   "hero": {
     "eyebrow": "",
     "heading": "A little about me",
-    "description": "I build backend systems with a focus on performance, reliability, and scale. Most of my work revolves around Java figuring out how to make systems faster and simpler.",
+    "description": "Software Engineer at To The New, focused on backend engineering, microservices, API performance, production reliability, and AI-powered systems.",
     "links": [
       {
         "label": "Contact me",
